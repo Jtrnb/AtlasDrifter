@@ -8,6 +8,7 @@
 - planning leads to better outcomes
 ## Dislikes:
 - true pass fail
+- Opportunity attacks/ reactions
 
 
 You get one free movement per turn and any other movement uses action points
