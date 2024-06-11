@@ -19,3 +19,5 @@ You get one free movement per turn and any other movement uses action points
 
 defensive actions and combative actions 
 defense is faster than offense 
+
+Death Born idea: when you die ,depending how you can easily be revived once as a new death born type entity. Deathborn cannot be revived 
