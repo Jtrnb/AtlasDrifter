@@ -7,6 +7,7 @@
 - Different Costs per "action"
 - planning leads to better outcomes
 - Lingering Damage
+- Action Speeds (Stack like Magic)
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions
