@@ -9,7 +9,7 @@
 - Lingering Damage
 - Action Speeds (Stack like Magic)
 - "Basic Actions" have impact and nothing should be used every turn always
-- Environment Matters
+- Environment Matters (3 grounds, Low, Even, High)
 - Reward creativity
 - Varying Dice for checks (not everything needs to be the d20 all the time)
 - Range Matters
