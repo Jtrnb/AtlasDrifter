@@ -20,3 +20,4 @@ Basic Types of Actions:
 - Jump
 - Hide/ Take Cover
 - Equip
+- Mount
