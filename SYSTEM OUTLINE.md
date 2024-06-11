@@ -11,6 +11,7 @@
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions for free
+- mindless action thats not automatic 
 
 
 You get one free movement per turn and any other movement uses action points
