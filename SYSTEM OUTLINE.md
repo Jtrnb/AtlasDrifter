@@ -5,6 +5,7 @@
 - Action "points" in combat
 - High Rolling Matters
 - Different Costs per "action"
+- planning leads to better outcomes
 ## Dislikes:
 - true pass fail
 
