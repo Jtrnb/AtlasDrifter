@@ -6,6 +6,7 @@
 - High Rolling Matters
 - Different Costs per "action"
 - planning leads to better outcomes
+- Lingering Damage
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions
