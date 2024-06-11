@@ -1,0 +1,36 @@
+{
+  "nodes": [
+    {
+      "id": "48a943dbffa2ed86",
+      "type": "text",
+      "text": "Things",
+      "shape": "parallelogram",
+      "x": -155,
+      "y": -194,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "ce5deb9a5101725b",
+      "type": "text",
+      "text": "To STuff",
+      "shape": "diamond",
+      "x": -244,
+      "y": -39,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    }
+  ],
+  "edges": [
+    {
+      "id": "de45c064e3db7c6c",
+      "fromNode": "48a943dbffa2ed86",
+      "fromSide": "bottom",
+      "toNode": "ce5deb9a5101725b",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
