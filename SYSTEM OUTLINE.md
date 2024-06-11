@@ -18,6 +18,8 @@
 - true pass fail
 - Opportunity attacks/ reactions for free
 - mindless action that's not automatic 
+- Granular Rules
+- Damage Variance
 
 
 You get one free movement per turn and any other movement uses action points
