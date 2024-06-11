@@ -8,6 +8,7 @@
 - planning leads to better outcomes
 - Lingering Damage
 - Action Speeds (Stack like Magic)
+- "Basic Actions" have impact and nothing should be used every turn always
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions for free
