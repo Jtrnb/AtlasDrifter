@@ -12,6 +12,7 @@
 - Environment Matters
 - Reward creativity
 - Varying Dice for checks (not everything needs to be the d20 all the time)
+- Range Matters
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions for free
