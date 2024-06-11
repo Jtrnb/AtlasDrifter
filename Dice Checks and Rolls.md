@@ -1,3 +1,10 @@
+
+
+## Likes:
+
+## Dislikes:
+
+
 ###### Stat Types:
 
 - Strength
