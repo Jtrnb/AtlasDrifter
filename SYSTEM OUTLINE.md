@@ -5,3 +5,6 @@
 - Action "points" in combat
 ## Dislikes:
 - true pass fail
+
+
+You get one free movement per turn and any other movement uses action points
