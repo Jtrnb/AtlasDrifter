@@ -4,6 +4,7 @@
 - Mastery/ Familiarity
 - Action "points" in combat
 - High Rolling Matters
+- Different Costs per "action"
 ## Dislikes:
 - true pass fail
 
