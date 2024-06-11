@@ -13,3 +13,10 @@ Basic Types of Actions:
 - Ability
 - Improvise (Make a skill check as well as another action)
 - Prepare (Use action when X thing happens)
+- Shove
+- Trip
+- Help
+- Escape
+- Jump
+- Hide/ Take Cover
+- Equip
