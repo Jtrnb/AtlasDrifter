@@ -14,6 +14,7 @@
 - Varying Dice for checks (not everything needs to be the d20 all the time)
 - Range Matters
 - Durability but tasteful
+- Less Emphasis on Chance
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions for free
