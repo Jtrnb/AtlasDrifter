@@ -11,6 +11,7 @@
 - "Basic Actions" have impact and nothing should be used every turn always
 - Environment Matters
 - Reward creativity
+- Varying Dice for checks (not everything needs to be the d20 all the time)
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions for free
