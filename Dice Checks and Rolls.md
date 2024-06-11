@@ -1,7 +1,7 @@
 
 
 ## Likes:
-- Pushing self for a consiquence to do better on rolls
+- Pushing self for a consequence to do better on rolls
 
 ## Dislikes:
 
