@@ -15,6 +15,7 @@
 - Range Matters
 - Durability but tasteful
 - Less Emphasis on Chance
+- Mechanically Unique Spellcasting
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions for free
