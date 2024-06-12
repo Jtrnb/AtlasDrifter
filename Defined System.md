@@ -36,8 +36,10 @@ Health is made up from 5 different types that collectively make a characters Hea
 - You may choose to not spend Action Dice to move, which will result in moving only your speed. 
 
 Dice Values:
-- d4 - light
- 
-- d12 - heavy
+- d4 - Utility 
+- d6 - Light
+- d8 - Medium 
+- d10 -  Heavy
+- d12 - Epic
 
 #### Turns:
