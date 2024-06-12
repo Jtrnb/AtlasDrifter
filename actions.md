@@ -22,4 +22,4 @@ Basic Types of Actions:
 - Equip
 - Mount
 - Block
-- Intercept 
+- Intercept
