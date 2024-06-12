@@ -33,7 +33,9 @@ Health is made up from 5 different types that collectively make a characters Hea
 - Sack dice based dice used to deal damage to you. opponent used a d4 to hurt you, sack a d4 to block. 
 #### Moving:
 - When taking the Move Action you may add the value of the Chosen Action Die to your speed and move that distance. 
-- You may choose to not spend Action Dice to move, which will result in moving only your speed. 
+- You may choose to not spend Action Dice to move, which will result in moving only your speed.
+#### Grid:
+- Hexagonal grid representing 5ft spaces 
 
 Dice Values:
 - d4 - Utility 
