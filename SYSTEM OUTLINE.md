@@ -37,6 +37,8 @@ Death Born idea: when you die ,depending how you can easily be revived once as a
 
 **Armor:** Armor can add a temp hitpoint thingy that when depleted causes the armor to be damaged and must be repaired (can make auto repair at rest etc.)
 
+**Shields**
+
 **Burdens:** Players can add bonus d4 to their rolls by taking burdens, which will do negative things. Burdens can have various effects, lowering AC, Health, Disadvantage. Getting rid of burden should be costly and long term, healer class shouldn't be able to do it. 2 week long rest style
 
 **Actions:** Action points are based on dice rolled that give a value that can be spent on "actions". The dice pool is determined by t
