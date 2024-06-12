@@ -15,7 +15,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### Defense:
 - Defense is a temporary from of Hitpoints also granted from Shields and Armor, which cannot be healed by standard healing.
 - Defense is always dealt damage before Hitpoints, Temporary Hitpoints and, Armor.
-- When taking damage, Defense can only take 10% of the damage rounded up. Any spillover damage goes into the rest of the creatures Health.
+- When taking damage, Defense can only take 10% of the damage rounded up with a minimum of 1. Any spillover damage goes into the rest of the creatures Health.
 #### Barrier:
 - Barrier cannot be healed by standard healing.
 - Barrier is always dealt damage before Hitpoints, Temporary Hitpoints, Armor, and Defense.
