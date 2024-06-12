@@ -6,7 +6,7 @@ Fastest
 Slowest
 
 Basic Types of Actions:
-- Move
+- Move (Add to base movement with acti)
 - Attack
 - Use an Item
 - Cast a spell
