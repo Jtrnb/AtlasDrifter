@@ -47,4 +47,4 @@ Death Born idea: when you die ,depending how you can easily be revived once as a
 
 Fluid actions switch turns so players are incentivized to work together to fully utilize all of their dice. also passing a turn allows unused dice to be used for defence. 
 
-all values are simple and ez so combat is 
+all values are simple and ez so combat isnt slow 
