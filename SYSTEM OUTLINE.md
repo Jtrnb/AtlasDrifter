@@ -44,3 +44,7 @@ Death Born idea: when you die ,depending how you can easily be revived once as a
 **Burdens:** Players can add bonus d4 to their rolls by taking burdens, which will do negative things. Burdens can have various effects, lowering AC, Health, Disadvantage. Getting rid of burden should be costly and long term, healer class shouldn't be able to do it. 2 week long rest style
 
 **Actions:** Action points are based on dice rolled that give a value that can be spent on "actions". The dice pool is determined by the class
+
+Fluid actions switch turns so players are incentivized to work together to fully utilize all of their dice. also passing a turn allows unused dice to be used for defence. 
+
+all values are simple and ez so combat is 
