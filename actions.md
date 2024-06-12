@@ -21,3 +21,5 @@ Basic Types of Actions:
 - Hide/ Take Cover
 - Equip
 - Mount
+- Block
+- Intercept 
