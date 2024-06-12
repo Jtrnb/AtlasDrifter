@@ -6,7 +6,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 
 #### <font style="color:#42f569">Hitpoints:</font>
 - Hitpoints or HP are your standard health. They may be healed, and they may not exceed their maximum value. 
-- When your Hitpoints reach 0 you die.
+- When your Hitpoints reach 0 you die. (yikes)
 #### Temporary Hitpoints
 - Temporary Hitpoints cannot be healed by standard healing.
 - Temporary Hitpoints are always dealt damage before Hitpoints.
