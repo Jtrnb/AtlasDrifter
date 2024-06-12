@@ -1,6 +1,26 @@
 ### Armor/ Shields:
 - Adds **Armor** which is additional HP that when broken ignores spillover damage.
 
+## Health Types:
+Health is made up from 5 different types that collectively make a characters Health.
+#### Hitpoints:
+- Hitpoints or HP are your standard health. They may be healed, and they may not exceed their maximum value. 
+- When your Hitpoints reach 0 you die.
+#### Temporary Hitpoints
+- Temporary Hitpoints cannot be healed by standard healing.
+- Temporary Hitpoints are always dealt damage before Hitpoints.
+#### Armor:
+- Armor is a temporary form of Hitpoints that come from Shields and Armor, which cannot be healed by standard healing 
+- Armor is always dealt damage before your Hitpoints and Temporary Hitpoints, and when Armor reaches 0, all remaining damage is ignored, as well as the piece's granting Armor becoming Damaged.
+#### Defense:
+- Defense is a temporary from of Hitpoints also granted from Shields and Armor, which cannot be healed by standard healing.
+- Defense is always dealt damage before Hitpoints, Temporary Hitpoints and, Armor.
+- When taking damage, Defense can only take 10% of the damage rounded up. Any spillover damage goes into the rest of the creatures Health.
+#### Barrier:
+- Barrier cannot be healed by standard healing.
+- Barrier is always dealt damage before Hitpoints, Temporary Hitpoints, Armor, and Defense.
+- Barrier can only take 1 damage at a time, ignoring all extra damage.
+
 ## Actions:
 
 #### Action Dice:
@@ -12,7 +32,7 @@
 - Sack dice based dice used to deal damage to you. opponent used a d4 to hurt you, sack a d4 to block. 
 #### Moving:
 - When taking the Move Action you may add the value of the Chosen Action Die to your speed and move that distance. 
-- You may choose to not spend Action Dice to move, which will result in moveing only your speed. 
+- You may choose to not spend Action Dice to move, which will result in moving only your speed. 
 
 Dice Values:
 - d4 - light
