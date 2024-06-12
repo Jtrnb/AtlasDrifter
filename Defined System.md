@@ -3,7 +3,8 @@
 
 ## Health Types:
 Health is made up from 5 different types that collectively make a characters Health.
-#### Hitpoints:
+
+#### <font style="color:#42f569">Hitpoints:</font>
 - Hitpoints or HP are your standard health. They may be healed, and they may not exceed their maximum value. 
 - When your Hitpoints reach 0 you die.
 #### Temporary Hitpoints
