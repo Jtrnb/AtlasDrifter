@@ -16,6 +16,7 @@
 - Durability but tasteful
 - Less Emphasis on Chance
 - Mechanically Unique Spellcasting
+- fluidity of turns and less gamey gameplay
 ## Dislikes:
 - true pass fail
 - Opportunity attacks/ reactions for free
