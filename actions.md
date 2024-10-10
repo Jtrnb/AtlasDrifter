@@ -6,7 +6,7 @@ Fastest
 Slowest
 
 #### Basic Actions:
-- Move (Add to base movement with action dice)
+- <span style="color:rgb(192, 0, 0)">Move (Add to base movement with action dice)</span>
 - Attack
 - Use an Item
 - Cast a spell
@@ -15,11 +15,11 @@ Slowest
 - Prepare (Use action when X thing happens)
 - Shove
 - Trip
-- Help
+- <span style="color:rgb(192, 0, 0)">Help</span>
 - Escape
 - Jump
-- Hide/ Take Cover
+- <span style="color:rgb(192, 0, 0)">Hide/ Take Cover</span>
 - Equip
 - Mount
-- Block
+- <span style="color:rgb(192, 0, 0)">Block</span>
 - Intercept
