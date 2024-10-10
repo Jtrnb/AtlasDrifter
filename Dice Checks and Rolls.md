@@ -73,6 +73,9 @@ When a player fails an Over Extended roll, or a player loses consciousness, the 
 
 ###### Stat Types:
 
+Stealth = Evasion + Direction + Deception
+Evasion Die = X
+
 - Strength
 	- Guts
 	- Endurance

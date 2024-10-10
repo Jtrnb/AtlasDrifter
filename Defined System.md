@@ -39,8 +39,15 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### Blocking (Defensive):
 - When getting attacked by a non-AOE ability, you may spend a die or dice based on dice used to deal damage to you. If an opponent used 1d4 to hurt you, spend 1d4 to block. 
 #### Dodging (Defensive):
-- When getting attacked, you may choose to dodge. Doing so prevents you from taking any additional Defensive or Fluid actions during this turn.
+- When getting attacked, you may choose to dodge by spending any Action Die. Doing so prevents you from taking any additional Defensive or Fluid actions during this turn.
 - When Dodging, you must roll your Evasion Die and add its modifier. If the value rolled is higher than the damage you were about to take you take no damage and successfully dodge. If the value rolled is less than the damage you were about to take you fail to dodge and take full damage. On a tie, the damage taken is halved.
+#### Escape (Combative):
+- 
+#### Help (Combative):
+- When taking the Help Action you may lend lend any number of your rolled Action Dice to another player equal to or less than your Instinct Modifier. Dice given return to you at the start of your turn and are rolled as normal. 
+#### Hiding (Combative):
+- When taking the Hide Action you must spend any Action Die and add its value to your base Stealth, this is your <span style="font-weight:bold; color:rgb(181, 119, 228)">Active Stealth</span>. Doing so will attempt to put your character into hiding. Enemies must make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your Active Stealth you fail to hide, if they roll lower you successfully hide.
+- When successfully hiding, you gain the Hidden condition.
 #### Moving (Combative):
 - When taking the Move Action you may add the value of the Chosen Action Die to your speed and move that distance. 
 - You may choose to not spend Action Dice to move, which will result in moving only your speed.
