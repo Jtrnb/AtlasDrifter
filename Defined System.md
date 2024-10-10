@@ -27,13 +27,21 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### Action Dice:
 - Action Dice are dice from the Action Dice Pool which is determined by your class. This pool consists of a mix of d4, d6, d8, d10 and, d12. At the start of each of your turns you will roll all available Action Dice.
 - The value of these dice will determine what actions you can take and the strength of those actions. 
-- When Action Dice are removed the Action Dice Pool they are not rolled on the start of your turn. All dice removed from the pool will be replenished at the start of your next turn unless otherwise stated.
-
-#### Blocking:
-- When getting attacked by a non-AOE ability, you may sack a die or dice based on dice used to deal damage to you. If an opponent used 1d4 to hurt you, sack 1d4 to block. 
-#### Dodging:
-- 
-#### Moving:
+- When Action Dice are removed the Action Dice Pool they are no longer usable until they replenished at the start of your next turn, unless otherwise stated.
+- On your turn you may spend any number of Action Dice to take actions, unspent dice may be used for Fluid or Defensive actions. 
+- Unused dice are not rolled at the start of your turn and instead hold their current value. 
+#### Combative Actions:
+- Combative Actions are used on your turn and only on your turn. These actions may not be used during other players turns or in response to other actions unless otherwise stated.
+#### Defensive Actions:
+- Defensive Actions are used in response to being attacked or targeted by abilities. These actions may be used only in response to the trigger given on each Defensive Action.
+#### Fluid Actions:
+- Fluid Actions are actions that may be used off of your turn or in response to other actions. These actions may be used only in response to the triggers given on each Fluid Action, or between actions of another play. Fluid Actions may not interrupt an Active action unless otherwise stated.
+#### Blocking (Defensive):
+- When getting attacked by a non-AOE ability, you may spend a die or dice based on dice used to deal damage to you. If an opponent used 1d4 to hurt you, spend 1d4 to block. 
+#### Dodging (Defensive):
+- When getting attacked, you may choose to dodge. Doing so prevents you from taking any additional Defensive or Fluid actions during this turn.
+- When Dodging, you must roll your Evasion Die and add its modifier. If the value rolled is higher than the damage you were about to take you take no damage and successfully dodge. If the value rolled is less than the damage you were about to take you fail to dodge and take full damage. On a tie, the damage taken is halved.
+#### Moving (Combative):
 - When taking the Move Action you may add the value of the Chosen Action Die to your speed and move that distance. 
 - You may choose to not spend Action Dice to move, which will result in moving only your speed.
 #### Grid:
