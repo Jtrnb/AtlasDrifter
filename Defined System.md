@@ -41,10 +41,11 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### Dodging (Defensive):
 - When getting attacked, you may choose to dodge by spending any Action Die. Doing so prevents you from taking any additional Defensive or Fluid actions during this turn.
 - When Dodging, you must roll your Evasion Die and add its modifier. If the value rolled is higher than the damage you were about to take you take no damage and successfully dodge. If the value rolled is less than the damage you were about to take you fail to dodge and take full damage. On a tie, the damage taken is halved.
-#### Escape (Combative):
-- 
+#### Grab (Combative):
+- When taking the Grab Action, you may spend any Action Die. You and a Target within 5 feet of you must make a contesting strength check, you add the value of your spent Action Die to this roll as well as any relevant modifiers. If you win the contest you gain the condition Grappling and the target gains the Grappled condition. If you lose the contest the target is not grappled and gains advantage on strength checks against grabs until the end of this turn.
+- You may end a Grab as a Fluid Action without spending any resource
 #### Help (Combative):
-- When taking the Help Action you may lend lend any number of your rolled Action Dice to another player equal to or less than your Instinct Modifier. Dice given return to you at the start of your turn and are rolled as normal. 
+- When taking the Help Action you may lend any number of your rolled Action Dice to another player equal to or less than your Instinct Modifier. Dice given return to you at the start of your turn and are rolled as normal. 
 #### Hiding (Combative):
 - When taking the Hide Action you must spend any Action Die and add its value to your base Stealth, this is your <span style="font-weight:bold; color:rgb(181, 119, 228)">Active Stealth</span>. Doing so will attempt to put your character into hiding. Enemies must make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your Active Stealth you fail to hide, if they roll lower you successfully hide.
 - When successfully hiding, you gain the Hidden condition.
