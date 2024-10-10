@@ -7,7 +7,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 - Temporary Hitpoints cannot be healed by standard healing.
 - Temporary Hitpoints are always dealt damage before Hitpoints.
 #### <font style="color:#2b8eff">Armor</font>:
-- Armor is a temporary form of Hitpoints that come from Shields and Armor, which cannot be healed by standard healing 
+- Armor is a temporary form of Hitpoints that comes from Shields and Armor, which cannot be healed by standard healing 
 - Armor is always dealt damage before your Hitpoints and Temporary Hitpoints, and when Armor reaches 0, all remaining damage from the attack that depleted the armor to 0 is ignored, as well as the equipment granting Armor becoming Damaged.
 #### <span style="color:rgb(192, 187, 17)">Defense</span>:
 - Defense is a temporary from of Hitpoints also granted from Shields and Armor, which cannot be healed by standard healing.
