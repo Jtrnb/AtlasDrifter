@@ -52,6 +52,8 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### Moving (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Move Action you may add the value of the Chosen <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to your speed and move that distance. 
 - You may choose to not spend <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to move, which will result in moving only your speed.
+#### Shoving (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
+- When taking the Shove Action you may spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to push a target within 5 feet of you away. You and the target must make contested check of your Strength or Guts plus the value of  against their Guts. You add the value of your spent <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to this roll as well as any relevant modifiers. If you win the contest the target is pushed back equivalent feet to your roll. Otherwise the target is not moved and nothing happens.
 #### Grid:
 - Hexagonal grid representing 5ft spaces 
 
