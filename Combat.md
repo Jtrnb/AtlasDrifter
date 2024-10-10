@@ -1,6 +1,3 @@
-### Armor/ Shields:
-- Adds **Armor** which is additional HP that when broken ignores spillover damage.
-
 ## Health Types:
 Health is made up from 5 different types that collectively make a characters Health.
 #### <span style="font-weight:bold; color:rgb(33, 235, 60)">Hitpoints</span>:
@@ -42,7 +39,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 ### <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions:
 - <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions are actions that may be used off of your turn or in response to other actions. These actions may be used only in response to the triggers given on each <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action, or between actions of another play. <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions may not interrupt an Active action unless otherwise stated.
 ### Common Actions:
-#### Attacks/ Abilities/ Spells/ Items (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>):
+#### Attacking/ Abilities/ Spells/ Items (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>):
 - When Attacking or using an Ability/ Spell/ Item you must match or exceed the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Value</span> of that Attack or Ability/ Spell/ Item with one of your <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
 - You may only spend 1 <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> per Attack or Ability/ Spell/ Item unless otherwise stated. 
 - If an Attack with a sword requires a 3, you may spend a d4 that rolled a 3 or a d12 that rolled an 8 to make that Attack. Higher rolls will result in better Attacks.
@@ -53,10 +50,10 @@ Health is made up from 5 different types that collectively make a characters Hea
 - When Dodging, you must roll your Evasion Die and add its modifier. If the value rolled is higher than the damage you were about to take you take no damage and successfully dodge. If the value rolled is less than the damage you were about to take you fail to dodge and take full damage. On a tie, the damage taken is halved.
 #### Equipping/ Mounting (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Equip or Mount Action you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to equip or mount the chosen piece of gear/ mount. 
-#### Grab (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
+#### Grabbing (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Grab Action, you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>. You and a Target within 5 feet of you must make a contesting strength check, you add the value of your spent <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to this roll as well as any relevant modifiers. If you win the contest you gain the condition Grappling and the target gains the Grappled condition. If you lose the contest the target is not grappled and gains advantage on strength checks against grabs until the end of this turn.
 - You may end a Grab as a <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action without spending any resource
-#### Help (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
+#### Helping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Help Action you may lend any number of your rolled <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to another player equal to or less than your Instinct Modifier. Dice given return to you at the start of your turn and are rolled as normal. 
 #### Hiding (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Hide Action you must spend any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> and add its value to your base Stealth, this is your <span style="font-weight:bold; color:rgb(181, 119, 228)">Active Stealth</span>. Doing so will attempt to put your character into hiding. Enemies must make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your Active Stealth you fail to hide, if they roll lower you successfully hide.
