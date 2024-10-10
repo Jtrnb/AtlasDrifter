@@ -7,17 +7,17 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### <font style="color:#42f569">Hitpoints:</font>
 - Hitpoints or HP are your standard health. They may be healed, and they may not exceed their maximum value. 
 - When your Hitpoints reach 0 you die. (yikes)
-#### Temporary Hitpoints
+#### <font style="color:#c06ff2">Temporary Hitpoints</font>
 - Temporary Hitpoints cannot be healed by standard healing.
 - Temporary Hitpoints are always dealt damage before Hitpoints.
-#### Armor:
+#### <font style="color:#2b8eff">Armor:</font>
 - Armor is a temporary form of Hitpoints that come from Shields and Armor, which cannot be healed by standard healing 
 - Armor is always dealt damage before your Hitpoints and Temporary Hitpoints, and when Armor reaches 0, all remaining damage is ignored, as well as the piece's granting Armor becoming Damaged.
-#### Defense:
+#### <span style="color:rgb(251, 254, 52)">Defense:</span>
 - Defense is a temporary from of Hitpoints also granted from Shields and Armor, which cannot be healed by standard healing.
 - Defense is always dealt damage before Hitpoints, Temporary Hitpoints and, Armor.
 - When taking damage, Defense can only take 10% of the damage rounded up with a minimum of 1. Any spillover damage goes into the rest of the creatures Health.
-#### Barrier:
+#### <span style="color:rgb(255, 192, 0)">Barrier:</span>
 - Barrier cannot be healed by standard healing.
 - Barrier is always dealt damage before Hitpoints, Temporary Hitpoints, Armor, and Defense.
 - Barrier can only take 1 damage at a time, ignoring all extra damage.
