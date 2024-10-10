@@ -81,7 +81,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 - When taking the Shove Action you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to push a target within 5 feet of you away. You and the target must make contested check of your Strength or Guts plus the value of  against their Guts. You add the value of your spent <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to this roll as well as any relevant modifiers. If you win the contest the target is pushed back equivalent feet to your roll. Otherwise the target is not moved and nothing happens.
 #### Tripping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>): CHECK
 - You may take the Trip action on your turn or when an Enemy moves outside of 5 feet of you. 
-- When taking the Trip Action, the target must succeed a Deftness or Instinct check equal to 8 + your Strength Modifier. When the target fails this check they are knocked Prone the target does not lose their <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> when tripped. 
+- When taking the Trip Action, the target must succeed a Deftness or Instinct check equal to 8 + your Strength Modifier. When the target fails this check they are knocked Prone and their movement ends.
 #### Grid:
 - Hexagonal grid with each tile representing 5ft spaces 
 ## Turn Order:
