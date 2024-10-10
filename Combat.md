@@ -46,7 +46,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### Blocking (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>): CHECK
 - When getting attacked by a non-AOE ability, you may spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to reduce the oncoming damage of the attack based on the contesting <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> values.
 - If an opponent used an 4 to hurt you, spending a 4 or greater to block reduces the damage of the attack to zero.
-- If an opponent used an 8 to hurt you, spending a 4 to block (half of 8) reduces the damage by half.
+- If an opponent used an 8 to hurt you, spending a 4 to block (half of 8) reduces the damage by half. Anything less than 4 will result in taking full damage.
 #### Dodging (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>): CHECK
 - When getting attacked, you may choose to dodge by spending any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>. Doing so prevents you from taking any additional <span style="font-weight:bold; color:rgb(192, 187, 17)"><span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span></span> or <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> actions during this turn.
 - When Dodging, you must roll your Evasion Die and add its modifier. If the value rolled is higher than the damage you were about to take you take no damage and successfully dodge. If the value rolled is less than the damage you were about to take you fail to dodge and take full damage. On a tie, the damage taken is halved.
