@@ -18,6 +18,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 - Barrier cannot be healed by standard healing.
 - Barrier is always dealt damage before Hitpoints, Temporary Hitpoints, Armor, and Defense.
 - Barrier can only take 1 damage at a time, ignoring all extra damage.
+- If you have 5 Barrier and take 10 damage. Your Barrier goes down to 4.
 
 ## Actions:
 ### <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>:
