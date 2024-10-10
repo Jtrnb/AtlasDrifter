@@ -12,7 +12,7 @@ Slowest
 - Cast a spell
 - Ability
 - Improvise (Make a skill check as well as another action)
-- Prepare (Use action when X thing happens)
+- <span style="color:rgb(235, 35, 53)">Prepare (Use action when X thing happens)</span>
 - <span style="color:rgb(192, 0, 0)">Shove</span>
 - Trip
 - <span style="color:rgb(192, 0, 0)">Help</span>
@@ -22,4 +22,4 @@ Slowest
 - Equip
 - Mount
 - <span style="color:rgb(192, 0, 0)">Block</span>
-- Intercept
+- <span style="color:rgb(235, 35, 53)">Intercept</span>
