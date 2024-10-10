@@ -25,17 +25,17 @@ Health is made up from 5 different types that collectively make a characters Hea
 
 ## Actions:
 
-#### <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>:
+### <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>:
 - <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> are dice from the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> Pool which is determined by your class. This pool consists of a mix of d4, d6, d8, d10 and, d12. At the start of each of your turns you will roll all available <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
 - The value of these dice will determine what actions you can take and the strength of those actions. 
 - When <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> are removed the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> Pool they are no longer usable until they replenished at the start of your next turn, unless otherwise stated.
 - On your turn you may spend any number of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to take actions, unspent dice may be used for <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> or <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> actions. 
 - Unused dice are not rolled at the start of your turn and instead hold their current value. 
-#### <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Actions:
+### <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Actions:
 - <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Actions are used on your turn and only on your turn. These actions may not be used during other players turns or in response to other actions unless otherwise stated.
-#### <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> Actions:
+### <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> Actions:
 - <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> Actions are used in response to being attacked or targeted by abilities. These actions may be used only in response to the trigger given on each <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> Action.
-#### <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions:
+### <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions:
 - <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions are actions that may be used off of your turn or in response to other actions. These actions may be used only in response to the triggers given on each <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action, or between actions of another play. <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions may not interrupt an Active action unless otherwise stated.
 #### Blocking (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>):
 - When getting attacked by a non-AOE ability, you may spend a die or dice based on dice used to deal damage to you. If an opponent used 1d4 to hurt you, spend 1d4 to block. 

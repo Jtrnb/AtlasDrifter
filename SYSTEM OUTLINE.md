@@ -1,3 +1,4 @@
+Base action dice are determined by CORE abilities that you choose upon character creation. One CORE ability will be a weapon
 ## Likes:
 - Pushing self for a consequence to do better on rolls
 - Fluid "Proficiency Bonus"
