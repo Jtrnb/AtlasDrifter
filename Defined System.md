@@ -30,7 +30,9 @@ Health is made up from 5 different types that collectively make a characters Hea
 - When Action Dice are removed the Action Dice Pool they are not rolled on the start of your turn. All dice removed from the pool will be replenished at the start of your next turn unless otherwise stated.
 
 #### Blocking:
-- Sack dice based dice used to deal damage to you. opponent used a d4 to hurt you, sack a d4 to block. 
+- When getting attacked by a non-AOE ability, you may sack a die or dice based on dice used to deal damage to you. If an opponent used 1d4 to hurt you, sack 1d4 to block. 
+#### Dodging:
+- 
 #### Moving:
 - When taking the Move Action you may add the value of the Chosen Action Die to your speed and move that distance. 
 - You may choose to not spend Action Dice to move, which will result in moving only your speed.
