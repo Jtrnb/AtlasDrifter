@@ -49,7 +49,8 @@ Health is made up from 5 different types that collectively make a characters Hea
 - If an opponent used an 8 to hurt you, spending a 4 to block (half of 8) reduces the damage by half. Anything less than 4 will result in taking full damage.
 #### Dodging (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>): CHECK
 - When getting attacked, you may choose to dodge by spending any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>.
-- When Dodging, you must roll your Evasion Die and add its modifier. If the value rolled is higher than the damage you were about to take you take no damage and successfully dodge. If the value rolled is less than the damage you were about to take you fail to dodge and take full damage. On a tie, the damage taken is halved.
+- When Dodging, you must make an Evasion check with the CL equal to the attacks Dodge Threshold. If you succeed the check you take no damage from the attack, you take full damage on a failure.
+- With each successful dodge on a turn, you gain a -1 penalty to Evasion checks related to dodging this turn.
 #### Equipping/ Mounting (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Equip or Mount Action you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to equip or mount the chosen piece of gear/ mount. 
 #### Grabbing (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
