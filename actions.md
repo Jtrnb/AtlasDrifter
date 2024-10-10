@@ -5,7 +5,7 @@ Fastest
 - Combative
 Slowest
 
-Basic Types of Actions:
+#### Basic Actions:
 - Move (Add to base movement with action dice)
 - Attack
 - Use an Item
