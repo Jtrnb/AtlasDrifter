@@ -9,15 +9,12 @@ Checks are made through rolling the amount of d12 you have allocated to a certai
 - Hard: 20
 - Average: 14
 - Easy: 10
-
-
-#### Types of Checks:
-###### Stat/ Sub-Stat Checks
+## Types of Checks:
+#### Stat/ Sub-Stat Checks
 - These checks involve the players Stats and Sub-Stat and are often used to gather information or take basic actions. When making this type of check, the player will look at the given Stat/Sub-Stat their are rolling for. They will then add all relevant modifiers and roll the necessary amount of dice.
 Ex.
 - A player needs to roll for Guts. They have Guts specialization, meaning they will roll 3d12 instead of 2d12. They roll a 22. They will then add their Guts modifier to the roll. They have +2 to Guts rolls. Their total roll would be their 22 + 2 their guts modifier = 24 total.
 - A player needs to roll for Deception. They do not have specialization, they will roll only 2d12. They roll a 7. Their Deception modifier is - 3. Their total roll would be 7 - 4 = 3
-
 #### Degrees of Success
 When a player makes a check, they will try to roll higher than a events Challenge Level (CL). Their rolls will have various degrees of success based on their roll. These range from:
 - Total Success: The player does the desired action without consequence
@@ -55,39 +52,12 @@ After making a check with a strained Stat/Sub-Stat or after a rest, the player l
 When a player has advantage on a roll they will re-roll one of their d12's and take the higher values. The opposite is true for disadvantage.
 
 If a player has both advantage and disadvantage, they lose both conditions.
-
-
 #### Doubles
 When a player rolls doubles, they lose any strained conditions. The roll is treated as a total success and will yield the best outcome possible. 
 
 *Optional.*
 When a player rolls double 1s, the GM may choose to make that a total failure.
-
-
 #### Branch Tokens
 When a player gains a Branch Token, they may choose to expend it to get bonuses on rolls. Expending a Branch Token adds an additional 1d12 to a roll. 
-
-
 #### Crippling Tokens
 When a player fails an Over Extended roll, or a player loses consciousness, the GM will gain Crippling Token. The GM may choose to use these tokens to impose negative effects on rolls. When using a Crippling Token, the chosen roll will have 1d12 subtracted from the roll. A player may not use a branch token to counteract this. 
-
-###### Stat Types:
-
-Stealth = Evasion + Direction + Deception
-Evasion Die = X
-
-- Strength
-	- Guts
-	- Endurance
-- Deftness
-	- Evasion
-	- Investigation
-- Intellect
-	- Memorization
-	- Study
-- Instinct
-	- Perception
-	- Direction
-- Charm
-	- Performance
-	- Deception

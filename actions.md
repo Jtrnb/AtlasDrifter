@@ -19,7 +19,7 @@ Slowest
 - Escape
 - <span style="color:rgb(235, 35, 53)">Jump</span>
 - <span style="color:rgb(192, 0, 0)">Hide/ Take Cover</span>
-- Equip
-- Mount
+- <span style="color:rgb(235, 35, 53)">Equip</span>
+- <span style="color:rgb(235, 35, 53)">Mount</span>
 - <span style="color:rgb(192, 0, 0)">Block</span>
 - <span style="color:rgb(235, 35, 53)">Intercept</span>
