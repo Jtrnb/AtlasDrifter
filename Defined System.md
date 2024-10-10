@@ -24,34 +24,34 @@ Health is made up from 5 different types that collectively make a characters Hea
 
 ## Actions:
 
-#### Action Dice:
-- Action Dice are dice from the Action Dice Pool which is determined by your class. This pool consists of a mix of d4, d6, d8, d10 and, d12. At the start of each of your turns you will roll all available Action Dice.
+#### <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>:
+- <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> are dice from the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> Pool which is determined by your class. This pool consists of a mix of d4, d6, d8, d10 and, d12. At the start of each of your turns you will roll all available <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
 - The value of these dice will determine what actions you can take and the strength of those actions. 
-- When Action Dice are removed the Action Dice Pool they are no longer usable until they replenished at the start of your next turn, unless otherwise stated.
-- On your turn you may spend any number of Action Dice to take actions, unspent dice may be used for Fluid or Defensive actions. 
+- When <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> are removed the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> Pool they are no longer usable until they replenished at the start of your next turn, unless otherwise stated.
+- On your turn you may spend any number of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to take actions, unspent dice may be used for <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> or <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> actions. 
 - Unused dice are not rolled at the start of your turn and instead hold their current value. 
-#### Combative Actions:
-- Combative Actions are used on your turn and only on your turn. These actions may not be used during other players turns or in response to other actions unless otherwise stated.
-#### Defensive Actions:
-- Defensive Actions are used in response to being attacked or targeted by abilities. These actions may be used only in response to the trigger given on each Defensive Action.
-#### Fluid Actions:
-- Fluid Actions are actions that may be used off of your turn or in response to other actions. These actions may be used only in response to the triggers given on each Fluid Action, or between actions of another play. Fluid Actions may not interrupt an Active action unless otherwise stated.
-#### Blocking (Defensive):
+#### <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Actions:
+- <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Actions are used on your turn and only on your turn. These actions may not be used during other players turns or in response to other actions unless otherwise stated.
+#### <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> Actions:
+- <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> Actions are used in response to being attacked or targeted by abilities. These actions may be used only in response to the trigger given on each <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> Action.
+#### <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions:
+- <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions are actions that may be used off of your turn or in response to other actions. These actions may be used only in response to the triggers given on each <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action, or between actions of another play. <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions may not interrupt an Active action unless otherwise stated.
+#### Blocking (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>):
 - When getting attacked by a non-AOE ability, you may spend a die or dice based on dice used to deal damage to you. If an opponent used 1d4 to hurt you, spend 1d4 to block. 
-#### Dodging (Defensive):
-- When getting attacked, you may choose to dodge by spending any Action Die. Doing so prevents you from taking any additional Defensive or Fluid actions during this turn.
+#### Dodging (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>):
+- When getting attacked, you may choose to dodge by spending any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>. Doing so prevents you from taking any additional <span style="font-weight:bold; color:rgb(192, 187, 17)"><span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span></span> or <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> actions during this turn.
 - When Dodging, you must roll your Evasion Die and add its modifier. If the value rolled is higher than the damage you were about to take you take no damage and successfully dodge. If the value rolled is less than the damage you were about to take you fail to dodge and take full damage. On a tie, the damage taken is halved.
-#### Grab (Combative):
-- When taking the Grab Action, you may spend any Action Die. You and a Target within 5 feet of you must make a contesting strength check, you add the value of your spent Action Die to this roll as well as any relevant modifiers. If you win the contest you gain the condition Grappling and the target gains the Grappled condition. If you lose the contest the target is not grappled and gains advantage on strength checks against grabs until the end of this turn.
-- You may end a Grab as a Fluid Action without spending any resource
-#### Help (Combative):
-- When taking the Help Action you may lend any number of your rolled Action Dice to another player equal to or less than your Instinct Modifier. Dice given return to you at the start of your turn and are rolled as normal. 
-#### Hiding (Combative):
-- When taking the Hide Action you must spend any Action Die and add its value to your base Stealth, this is your <span style="font-weight:bold; color:rgb(181, 119, 228)">Active Stealth</span>. Doing so will attempt to put your character into hiding. Enemies must make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your Active Stealth you fail to hide, if they roll lower you successfully hide.
+#### Grab (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
+- When taking the Grab Action, you may spend any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>. You and a Target within 5 feet of you must make a contesting strength check, you add the value of your spent <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to this roll as well as any relevant modifiers. If you win the contest you gain the condition Grappling and the target gains the Grappled condition. If you lose the contest the target is not grappled and gains advantage on strength checks against grabs until the end of this turn.
+- You may end a Grab as a <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action without spending any resource
+#### Help (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
+- When taking the Help Action you may lend any number of your rolled <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to another player equal to or less than your Instinct Modifier. Dice given return to you at the start of your turn and are rolled as normal. 
+#### Hiding (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
+- When taking the Hide Action you must spend any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> and add its value to your base Stealth, this is your <span style="font-weight:bold; color:rgb(181, 119, 228)">Active Stealth</span>. Doing so will attempt to put your character into hiding. Enemies must make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your Active Stealth you fail to hide, if they roll lower you successfully hide.
 - When successfully hiding, you gain the Hidden condition.
-#### Moving (Combative):
-- When taking the Move Action you may add the value of the Chosen Action Die to your speed and move that distance. 
-- You may choose to not spend Action Dice to move, which will result in moving only your speed.
+#### Moving (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
+- When taking the Move Action you may add the value of the Chosen <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to your speed and move that distance. 
+- You may choose to not spend <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to move, which will result in moving only your speed.
 #### Grid:
 - Hexagonal grid representing 5ft spaces 
 
