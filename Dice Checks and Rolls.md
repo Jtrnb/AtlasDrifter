@@ -10,6 +10,10 @@
 - Hard: 20
 - Average: 14
 - Easy: 10
+#### Dice Pools:
+- Every <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> will have a pool of dice associated with it with the default amount being 2d12. 
+- If you have specialization in a <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> its Dice Pool increases to 3d12
+- If you have weakness in a <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> its Dice Pool decreases to 1d12.
 ## Types of Checks:
 #### <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> Checks
 - These checks involve the players <span style="font-weight:bold; color:rgb(33, 235, 60)">Stats</span> and are often used to gather information or take basic actions. When making this type of check, the player will look at the given <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> their are rolling for. They will then add all relevant modifiers and roll the necessary amount of dice.
