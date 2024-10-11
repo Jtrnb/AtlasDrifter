@@ -1,3 +1,4 @@
+**Each Level Gives fixed Hitpoints**
 
 Each level has its own abilities for each focus. 
 you pick a main focus which levels up always when you level up. 

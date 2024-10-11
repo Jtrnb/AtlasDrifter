@@ -48,6 +48,6 @@
 	- **Passive Perception:** 11 + Perception Modifier
 #### Determining Hitpoints:
 - Your starting Hitpoints are determined by your Guts modifier.
-	- **Hitpoints:** Guts Modifier + 25
+	- **Hitpoints:** (2 x Guts Modifier) + 25
 ## Core Abilities:
 - When first creating a character you must pick up to **3 Core Abilities**. These abilities come with the amount of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> you will have to work with at the start of the game.
