@@ -44,11 +44,11 @@ Health is made up from 5 different types that collectively make a characters Hea
 - When Attacking or using an Ability/ Spell/ Item you must match or exceed the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Value</span> of that Attack or Ability/ Spell/ Item with one of your <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
 - You may only spend 1 <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> per Attack or Ability/ Spell/ Item unless otherwise stated. 
 - If an Attack with a sword requires a 3, you may spend a d4 that rolled a 3 or a d12 that rolled an 8 to make that Attack. Higher rolls will result in better Attacks.
-#### Blocking (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>): CHECK
+#### Blocking (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>):
 - When getting attacked by a non-AOE ability, you may spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to reduce the oncoming damage of the attack based on the contesting <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> values.
 - If an opponent used an 4 to hurt you, spending a 4 or greater to block reduces the damage of the attack to zero.
 - If an opponent used an 8 to hurt you, spending a 4 to block (half of 8) reduces the damage by half. Anything less than 4 will result in taking full damage.
-#### Dodging (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>): CHECK
+#### Dodging (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>):
 - When getting attacked, you may choose to dodge by spending any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>.
 - When Dodging, you must make an Evasion check with the CL equal to the attacks Dodge Threshold. If you succeed the check you take no damage from the attack, you take full damage on a failure.
 - With each successful dodge on a turn, you gain a -1 penalty to Evasion checks related to dodging this turn.
@@ -66,7 +66,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 - You may take this action when you make a <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Action, once per turn.
 - When making the Improvise Action you may make any Check an add its effect to the current action. The type of check is determined by the player and the outcome and CL of the roll is determined by the GM.
 - A player may want to make a Deftness check to make a backflip before attacking, they may Improvise to make the check and add it to their base attack. Doing so does not use any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
-#### Intercepting (<span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>): CHECK
+#### Intercepting (<span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>):
 - You may take the Intercept Action when an opponent makes an action. 
 - When taking the Intercept Action you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to try and reduce the value of an opponents <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>. You and a target within 5 feet of you must make a contested roll of your Deftness against their Endurance or Guts. If you win the contest, the opponents <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> is reduced by the value of your <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to a minimum of 1. Otherwise their action continues as normal and the value of their <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> increases by 1, this may not exceed the maximum value of the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span>. If this would reduce the value of the targets <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to less than the required value to preform the action, it is treated at the minimum value.
 #### Jumping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
@@ -81,7 +81,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 - You may spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to make a Shove Action when an opponent moves. 
 #### Shoving (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Shove Action you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to push a target within 5 feet of you away. You and the target must make contested check of your Strength or Guts plus the value of  against their Guts. You add the value of your spent <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to this roll as well as any relevant modifiers. If you win the contest the target is pushed back equivalent feet to your roll. Otherwise the target is not moved and nothing happens.
-#### Tripping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>): CHECK
+#### Tripping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>):
 - You may take the Trip action on your turn or when an Enemy moves outside of 5 feet of you. 
 - When taking the Trip Action, the target must succeed a Deftness or Instinct check equal to 8 + your Strength Modifier. When the target fails this check they are knocked Prone and their movement ends.
 #### Grid:
