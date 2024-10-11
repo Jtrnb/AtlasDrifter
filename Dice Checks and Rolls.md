@@ -28,8 +28,6 @@
 		- 21-24 would yield a total success
 		- 10-14 would yield a partial failure
 		- >10 would yield a total failure
-
-
 #### <span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span> & <span style="font-weight:bold; color:rgb(102, 82, 255)"><span style="font-weight:bold; color:rgb(102, 82, 255)"><span style="font-weight:bold; color:rgb(102, 82, 255)">Over Extend</span>ing</span></span>
 - When rolling a <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span>  Check, a player may choose to add an additional 1d6 to their roll, this is called **<span style="font-weight:bold; color:rgb(102, 82, 255)"><span style="font-weight:bold; color:rgb(102, 82, 255)">Over Extend</span>ing</span>**. Doing so will cause the one of the players <span style="font-weight:bold; color:rgb(33, 235, 60)">Stats</span> to become <span style="font-weight:bold; color:rgb(235, 35, 53)"><span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>ed</span>. The <span style="font-weight:bold; color:rgb(235, 35, 53)"><span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>ed</span> <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> is the one the player chose to roll for.
 	- If a player <span style="font-weight:bold; color:rgb(102, 82, 255)"><span style="font-weight:bold; color:rgb(102, 82, 255)">Over Extend</span>s</span> and succeeds the check, the player gains 1 <span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span> in the <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> they rolled for. 
@@ -44,8 +42,6 @@
 	- Player rolls 1d12 and 1d6 due to having 1 <span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>. If they <span style="font-weight:bold; color:rgb(102, 82, 255)">Over Extend</span> they roll 2d12 again.
 		- If that player succeeds the roll, their next roll will by only 1d12, due to them gaining 1 <span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>.
 	- If a player loses all of their dice from <span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>, they will automatically fail checks in the given <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> until they lose the <span style="font-weight:bold; color:rgb(235, 35, 53)"><span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>ed</span> condition.
-
-
 #### Advantage and Disadvantage
 - When a player has advantage on a roll they will re-roll one of their d12's and take the higher values. The opposite is true for disadvantage.
 - If a player has both advantage and disadvantage, they lose both conditions.
