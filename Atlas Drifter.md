@@ -1,4 +1,4 @@
-[[Dice Checks and Rolls]]
+[[Dice, Checks and Rolls]]
 [[Leveling]]
 [[SYSTEM OUTLINE]]
 [[Actions]]
