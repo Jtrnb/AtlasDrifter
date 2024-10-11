@@ -6,6 +6,7 @@
 
 Stealth = Evasion + Direction + Deception
 Reaction = Instinct + Deftness
+Passive Perception = 11 + Perception
 
 - Strength
 	- Guts
