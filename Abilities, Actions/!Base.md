@@ -4,8 +4,5 @@
 
 ### Duration:
 
-### Mana:
 ### Effects:
 #### 1-12:
-
-### Spell List:
