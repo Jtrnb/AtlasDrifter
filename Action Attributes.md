@@ -1,0 +1,5 @@
+- Prone
+- Grabbing
+- Grabbed
+- Ariel (only used in air)
+- Grounded (only used on ground)
