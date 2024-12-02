@@ -1,4 +1,5 @@
 **Each Level Gives fixed Hitpoints**
+increase base stats every couple levels
 Maybe use a skill tree or multiple for different upgrades
 Less “Actions” the later you go for simplicity
 
