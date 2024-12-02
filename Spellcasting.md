@@ -1,6 +1,7 @@
 Different mechanically based on Core Ability
 
-Core Ability defines 
+Core Ability defines
+- What action dice can be used to cast a spell
 
 Possibilities:
 - direct cast
