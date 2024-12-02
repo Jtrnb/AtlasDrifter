@@ -42,7 +42,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 ### Common Actions:
 #### Attacking/ Abilities/ Spells/ Items (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>):
 - When Attacking or using an Ability/ Spell/ Item you must match or exceed the <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Value</span> of that Attack or Ability/ Spell/ Item with one of your <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
-- You may only spend 1 <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> per Attack or Ability/ Spell/ Item unless otherwise stated. 
+- You may only spend 1 <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> per Attack or Ability/ Spell/ Item **unless otherwise stated**. 
 - If an Attack with a sword requires a 3, you may spend a d4 that rolled a 3 or a d12 that rolled an 8 to make that Attack. Higher rolls will result in better Attacks.
 #### Blocking (<span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>):
 - When getting attacked by a non-AOE ability, you may spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to reduce the oncoming damage of the attack based on the contesting <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> values.
