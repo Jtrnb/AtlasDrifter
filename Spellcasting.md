@@ -1,8 +1,10 @@
 Different mechanically based on Core Ability
 
+Core Ability defines 
+
 Possibilities:
 - direct cast
 - setup
-- spellsword
+- spell sword
 - charge/ multicharge
 - 
