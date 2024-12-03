@@ -3,3 +3,4 @@
 - Grabbed
 - Ariel (only used in air)
 - Grounded (only used on ground)
+- Stance (type/ name)
