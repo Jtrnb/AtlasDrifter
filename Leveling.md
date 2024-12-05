@@ -1,3 +1,13 @@
+- When leveling up you will gain a variety of different upgrades. These upgrades come on either an Odd or Even level, based on the level number you are moving toward
+- If you move to Level 2, 4, 6, etc. that is an Even level, and if you move to Level 3, 5, 7, etc. that is an Odd level
+### Health Changes
+- Each Level you gain (10 + Your Guts Modifier) Hitpoints, unless otherwise stated
+- Most Health Increases will come from abilities taken
+
+### Even Levels
+
+### Odd Levels
+
 **Each Level Gives fixed Hitpoints**
 increase base stats every couple levels
 Maybe use a skill tree or multiple for different upgrades
