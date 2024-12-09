@@ -1,10 +1,10 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d6
 ## Effects:
-### First to Strike:
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">First to Strike</span>
 - Your Reaction modifier is increases by +1
 - If you are the first to deal damage to an enemy, it does double damage.
 ## Actions:
-### Always Hidden
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Always Hidden</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 6
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: 1 Minute

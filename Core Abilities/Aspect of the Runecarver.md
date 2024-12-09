@@ -1,8 +1,8 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d6, 1d8
 ## Effects:
-### Spellcasting
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Spellcasting</span>
 - The Aspect of the Runecarver provides you access to the power of the Arcane allowing you to cast a variety of different spells from your runes.
-- The origin location of your spells is a Rune, summoned by Conjure Rune
+- The origin location of your spells is a Rune, summoned by <span style="font-weight:bold;color:rgb(240, 164, 0)">Conjure Rune</span>
 - The amount of spells you know are equal to 2 + Your Memorization Modifier + Level
 - You may choose spells from the [[Arcane Spell List]]
 - You gain 20 <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span> that may be used to cast spells.
@@ -10,7 +10,7 @@
 - Your Spell Power Challenge Level is equal to 10 + Your Intellect Modifier
 - Your Spell Modifier is Intellect
 ## Actions:
-### Summon Rune
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Conjure Rune</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 1
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span> Cap: NA
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
@@ -23,7 +23,7 @@
 - Runes have 10 Hp and can be destroyed
 - You may place Runes within 40 feet of yourself in any unoccupied space.
 - Gravity does not effect Runes.
-### Spellcasting
+### <span style="font-weight:bold;color:rgb(240, 164, 0)"> Spellcasting</span>
 #### Prerequisite: 
 - You must have a Rune placed within 60 feet of you to use this Action
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 3
