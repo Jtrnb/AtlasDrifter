@@ -7,10 +7,7 @@
 ## Actions:
 ### Enter Rage
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 4
-
-#### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span> Cap: NA
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
-#### Range: NA
 #### Effects:
 ##### 1-5: 
 - You enter an Enraged state. While Enraged you gain the following
