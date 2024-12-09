@@ -15,6 +15,8 @@
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 3
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span> Cap: NA
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>
+#### Range: Variable
+#### Duration: Variable
 #### Effects:
 ##### 1-12: 
 - Variable
