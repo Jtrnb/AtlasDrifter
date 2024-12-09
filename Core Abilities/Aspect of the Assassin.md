@@ -11,9 +11,11 @@
 #### Duration: 1 Minute
 #### Effects:
 ##### 1-8: 
-- You gain the Hidden condition for 1 minute. While Hidden you gain the following:
+- You may Hide as a <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action
+- While Hidden you gain the following:
 	- Your base speed increases by 5 feet
 ##### 1-12:
-- You gain the Hidden condition for 1 minute. While Hidden you gain the following:
+- You may Hide as a <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action
+- While Hidden you gain the following:
 	- Your base speed increases by 10 feet
 	- Your lowest Action Die is upgraded for the duration.
