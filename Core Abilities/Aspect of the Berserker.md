@@ -1,5 +1,7 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d8, 1d10
 ## Effects:
+
+### Battle Scarred
 - When calculating your Hitpoints, your Guts modifier is +2
 - You max Hitpoints increases by 5
 ## Actions:

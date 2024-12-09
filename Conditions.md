@@ -9,3 +9,4 @@
 #### Prone:
 - You laying flat on the ground and must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to get off the ground.
 - While Prone you may only take actions that have the **Prone** attribute.
+#### Hidden
