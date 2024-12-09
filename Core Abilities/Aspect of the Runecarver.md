@@ -1,5 +1,9 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d6, 1d8
 ## Effects:
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Runic Casting</span>
+- Spells you cast have a minimum duration of 1 round.
+- Instant spells that linger will continue to apply their effect along its area of influence for the entire round.
+	- If a projectile hits an enemy, it stops and any other enemy that moves into that projectile will be damaged.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Spellcasting</span>
 - The Aspect of the Runecarver provides you access to the power of the Arcane allowing you to cast a variety of different spells from your runes.
 - The origin location of your spells is a Rune, summoned by <span style="font-weight:bold;color:rgb(240, 164, 0)">Conjure Rune</span>
@@ -12,13 +16,19 @@
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Conjure Rune</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 1
-#### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span> Cap: NA
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: 10 Minutes
 #### Range: 40 feet
 #### Effects:
-##### 1-12:
+##### 1-11:
 - You summon a Rune. 
+- You may cast spells from these Runes.
+- Runes have 10 Hp and can be destroyed
+- You may place Runes within 40 feet of yourself in any unoccupied space.
+- Gravity does not effect Runes.
+#### 12:
+- You summon a Rune. 
+- The Rune does 2 Mystic damage to enemies within 5 feet of it.
 - You may cast spells from these Runes.
 - Runes have 10 Hp and can be destroyed
 - You may place Runes within 40 feet of yourself in any unoccupied space.

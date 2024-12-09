@@ -128,5 +128,5 @@ Ex.
 |                                                                   |                                                                         |                                                                   | Cont.                                                           |
 ## Damage Types
 - Physical
-- 
+- Mystic
 
