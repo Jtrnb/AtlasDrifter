@@ -1,0 +1,30 @@
+### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d8, 1d10
+## Effects:
+- When calculating your Hitpoints, your Guts modifier is +2
+- You max Hitpoints increases by 5
+## Actions:
+### Enter Rage
+#### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 4
+
+#### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span> Cap: NA
+#### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
+
+#### Duration: 10 Minutes
+
+#### Effects:
+##### 1-5: 
+- You enter an Enraged state. While Enraged you gain the following
+	- You gain 5 Defense
+	- You gain 5 Temporary Hitpoints
+	- Physical Damage you deal is increases by 3
+	- You may use actions involving the Enraged State.
+##### 5-12
+- You enter an Enraged state. While Enraged you gain the following
+	- You gain 5 Defense
+	- You gain 10 Temporary Hitpoints
+	- Physical Damage you deal is increases by 4
+	- You may use actions involving the Enraged State.
+	- Refund the Die used to take this Action.
+
+
+

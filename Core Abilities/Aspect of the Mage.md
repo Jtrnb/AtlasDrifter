@@ -1,5 +1,7 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d8
 ## Effects:
+### Mage's Knowledge
+- Spells you cast cost 3 less <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span>.
 ## Actions:
 ### Spellcasting:
 - The Aspect of the Mage provides you access to the power of the Arcane allowing you to cast a variety of different spells from you own power.

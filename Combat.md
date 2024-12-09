@@ -126,4 +126,7 @@ Ex.
 |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>                     |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |
 |                                                                   | Cont.                                                                   |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 1</span>             |
 |                                                                   |                                                                         |                                                                   | Cont.                                                           |
+## Damage Types
+- Physical
+- 
 
