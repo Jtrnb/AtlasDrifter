@@ -35,7 +35,7 @@
 - You may place Runes within 40 feet of yourself in any unoccupied space.
 - Gravity does not effect Runes.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)"> Spellcasting</span>
-#### Prerequisite: 
+#### Prerequisites: 
 - You must have a Rune placed within 60 feet of you to use this Action
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 3
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span> Cap: 8

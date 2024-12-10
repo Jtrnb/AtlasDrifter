@@ -6,6 +6,8 @@
 - You max Hitpoints increases by 5
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Rage</span>
+#### Attributes:
+- Prone
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 4
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Effects:
