@@ -4,6 +4,7 @@
 - Spells you cast have a minimum duration of 1 round.
 - Instant spells that linger will continue to apply their effect along its area of influence for the entire round.
 	- If a projectile hits an enemy, it stops and any other enemy that moves into that projectile will be damaged.
+	- Casting more than 1 spell in a turn will cause prior spells to end
 - Self Targeted Spells may only be cast on players sharing a space with a Rune
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Spellcasting</span>
 - The Aspect of the Runecarver provides you access to the power of the Arcane allowing you to cast a variety of different spells from your runes.
