@@ -3,6 +3,7 @@
 - Vocal
 - Stomatic
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 2
+### <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span>: 6
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant
 #### Range: 60 feet
