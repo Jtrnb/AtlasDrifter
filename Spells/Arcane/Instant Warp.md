@@ -3,6 +3,7 @@
 - Prone
 #### Prerequisites:
 - Level 6
+- When a character makes an Action.
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 3
 ### <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span>: 10
 #### Speed: <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>
