@@ -1,4 +1,3 @@
-#### Attributes: 
 #### Prerequisites: 
 - Vocal
 - Stomatic
