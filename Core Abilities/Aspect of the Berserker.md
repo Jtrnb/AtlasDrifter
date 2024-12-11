@@ -1,4 +1,5 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d8, 1d10
+### Speed: 15 feet
 ## Effects:
 
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Battle Scarred</span>

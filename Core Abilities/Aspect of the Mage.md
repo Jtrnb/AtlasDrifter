@@ -1,4 +1,5 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d8
+### Speed: 15 feet
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Mage's Knowledge</span>
 - Spells you cast cost 3 less <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span>.
