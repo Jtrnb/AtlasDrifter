@@ -2,10 +2,12 @@
 ### Speed: 15 feet
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Tough</span>
-- When calculating your Hitpoints, your Guts Modifier is +2
+- When calculating your Hitpoints, your **Guts Modifier** is +2
 - You max Hitpoints increases by 10
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Damage Absorbance</span>
+### Prerequisite: 
+- When getting attacked
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 6
 #### Speed: <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span>
 #### Duration: 1 Round
