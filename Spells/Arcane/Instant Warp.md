@@ -10,6 +10,6 @@
 #### Range: 40 feet
 #### Effects:
 ##### 1-12: 
-- You teleport to any unoccupied space within 40 feet of you.
+- You teleport to any unoccupied space you can see within 40 feet of you.
 #### Spell List: 
 - [[Arcane Spell List]]
