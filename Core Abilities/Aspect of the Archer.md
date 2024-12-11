@@ -1,7 +1,8 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d6, 1d6
 ### Speed: 20 feet
 ## Effects:
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Ranger's Eyes</span>
+- Ranged weapons have an additional 10 feet of range
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Perfect Distance</span>
 #### Prerequisite: 
