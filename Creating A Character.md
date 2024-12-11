@@ -53,7 +53,7 @@
 - When first creating a character you must pick up to **2 Core Abilities**. These abilities come with the amount of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> you will have to work with at the start of the game.
 - Core Abilities will contain: passive abilities, active abilities, items, and <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
 #### Determining Base Speed:
-- Your starting Speed is determined by your 2 Core Abilities and Origin
+- Your starting Speed is determined by adding together the speed value of your 2 Core Abilities and Origin.
 ## Origin
 - When first creating a character you must pick an Origin. Origins have mostly passive abilities and add flavor to your character. 
 - The Origin chosen will determine was your characters base appearance is and where in the world they are originally from.
