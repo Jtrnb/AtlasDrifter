@@ -3,7 +3,7 @@
 ## Effects:
 
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Battle Scarred</span>
-- When calculating your Hitpoints, your Guts modifier is +2
+- When calculating your Hitpoints, your **Guts Modifier** is +2
 - You max Hitpoints increases by 5
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Rage</span>

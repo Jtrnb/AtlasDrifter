@@ -2,7 +2,7 @@
 ### Speed: 20 feet
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">First to Strike</span>
-- Your Reaction modifier is increases by +1
+- Your **Reaction Modifier** is increases by +1
 - If you are the first to deal damage to an enemy, it does double damage.
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Always Hidden</span>

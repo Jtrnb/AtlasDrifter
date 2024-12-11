@@ -2,7 +2,7 @@
 ### Speed: 15 feet
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Tough</span>
-- When calculating your Hitpoints, your Guts modifier is +2
+- When calculating your Hitpoints, your Guts Modifier is +2
 - You max Hitpoints increases by 10
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Damage Absorbance</span>
