@@ -1,1 +1,2 @@
+- [[Instant Warp]]
 - [[Minor Flame]]
