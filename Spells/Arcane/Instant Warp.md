@@ -13,6 +13,7 @@
 ##### 1-4: 
 - You teleport to any unoccupied space you can see within 40 feet of you.
 - You are Stunned until the start of your next turn
+- You take 15 Mystical Damage
 ##### 5-10:
 - You teleport to any unoccupied space you can see within 40 feet of you.
 ##### 11-12:

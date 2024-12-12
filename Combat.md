@@ -129,4 +129,5 @@ Ex.
 ## Damage Types
 - Physical
 - Mystic
+- Fire
 
