@@ -1,7 +1,9 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d6, 1d8
 ### Speed: 15 feet
 ## Effects:
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Blast Resistant</span>:
+- Your explosions to 15 feet of knockback to yourself
+- You cannot take damage from your own AOE effects.
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Cherry Bomb</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 5
