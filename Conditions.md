@@ -11,4 +11,5 @@
 - While Prone you may only take actions that have the **Prone** attribute.
 #### Stunned:
 - You may not make any Actions while Stunned. This includes moving.
-#### Hidden
+#### Hidden:
+- Enemies must make a 

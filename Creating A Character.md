@@ -19,9 +19,10 @@
 		- Performance
 		- Deception
 #### <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span>:
-- There are 3 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span>. These are used for check both used in and outside of combat as well as other systems. They determine general stats for the GM to use, and how your character interact with specific scenarios. 
-- The 3 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span> are as follows:
+- There are 4 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span>. These are used for check both used in and outside of combat as well as other systems. They determine general stats for the GM to use, and how your character interact with specific scenarios. 
+- The 4 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span> are as follows:
 	- Stealth
+	- Passive Stealth
 	- Reaction
 	- Passive Perception.
 ## Determining Stats:
@@ -41,9 +42,10 @@
 	- Distributing the 6 points: Strength: -1 + 1 = +0, Guts: -1 + 2 = +1, Endurance: -1 + 0 = -1
 	- Your character would have a +0 in Strength, a +1 in Guts and a -1 in Endurance. 
 #### Determining <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span>:
-- There are 3 <span style="font-weight:bold;color:rgb(102, 82, 255)"><span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span></span>. These are used for check both used in and outside of combat as well as other systems. They determine general stats for the GM to use, and how your character interact with specific scenarios. 
+- There are 4 <span style="font-weight:bold;color:rgb(102, 82, 255)"><span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span></span>. These are used for check both used in and outside of combat as well as other systems. They determine general stats for the GM to use, and how your character interact with specific scenarios. 
 - The <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span> are determined by your <span style="font-weight:bold;color:rgb(33, 235, 60)">Base Stats</span> as follows:
 	- **Stealth:** Evasion Modifier + Direction Modifier + Deception Modifier
+	- **Passive Stealth:** Evasion Modifier + Direction Modifier + Deception Modifier + 4
 	- **Reaction:** Instinct Modifier + Deftness Modifier
 	- **Passive Perception:** 11 + Perception Modifier
 #### Determining Hitpoints:
