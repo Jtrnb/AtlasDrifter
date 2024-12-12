@@ -3,6 +3,7 @@
 ### Items:
 - Choose 2 from the following
 	- [[Dagger]]
+	- [[Shortsword]]
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">First to Strike</span>
 - Your **Reaction Modifier** is increases by +1
