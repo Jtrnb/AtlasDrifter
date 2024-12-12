@@ -7,6 +7,8 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">First to Strike</span>
 - Your **Reaction Modifier** is increases by +1
 - If you are the first to deal damage to an enemy, it does double damage.
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Hard to Find</span>
+- Your Passive Stealth increases by +5
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Always Hidden</span>
 #### Attributes:
