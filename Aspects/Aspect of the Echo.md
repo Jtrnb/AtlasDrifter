@@ -1,5 +1,6 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d6, 1d6, 1d4
 ### Speed: 15 feet
+### Items:
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Foresight</span>
 - All action diced used for <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> and <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> actions are 1 higher than the rolled value.

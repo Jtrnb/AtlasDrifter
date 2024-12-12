@@ -1,5 +1,6 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 
 ### Speed:
+### Items:
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
 ## Actions:

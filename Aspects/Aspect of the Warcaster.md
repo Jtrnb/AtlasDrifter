@@ -1,5 +1,6 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d8, 1d8
-### Speed:
+### Speed: 15 feet
+### Items:
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Forced Spellcasting</span>
 - Spells you cast must be **Charged** for at least 1 round.

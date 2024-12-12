@@ -1,5 +1,6 @@
 ### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d8, 1d10
 ### Speed: 15 feet
+### Items:
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Tough</span>
 - When calculating your Hitpoints, your **Guts Modifier** is +2
