@@ -12,7 +12,7 @@
 #### Range: 20 feet
 #### Effects:
 ##### 1-7:
-- Throw a bomb 20 feet. This bomb does 5 damage at the point of impact and 2 damage to surround tiles. 
+- Throw a bomb 20 feet. This bomb does 5 damage to characters at the point of impact and 2 damage to surround tiles. 
 - Enemies hit by this bomb have their speed reduced by 10 for 1 round
 ##### 8-12:
 - Throw a bomb 20 feet. This bomb does 5 damage to characters at the point of impact and 2 damage to surround tiles. 
