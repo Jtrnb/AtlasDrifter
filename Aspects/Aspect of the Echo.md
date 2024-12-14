@@ -11,7 +11,7 @@
 - Grabbed
 - Prone
 #### Prerequisite: 
-- May not be used by an Ech
+- May not be used by an Echo
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 5
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: 1 Minute

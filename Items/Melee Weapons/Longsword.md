@@ -12,10 +12,10 @@
 ##### 1-5:
 - You deal 5 Physical damage target enemy within 5 feet of you
 ##### 6-10:
-- You deal 5 Physical  damage to target enemy within 5 feet of you
+- You deal 5 Physical damage to target enemy within 5 feet of you
 - You may add the value of your lowest Action Die to your next Block
 ##### 11-12:
 - You deal 6 Physical damage to target enemy within 5 feet of you
 - You may add the value of your lowest Action Die to your next Block
-- After your next successful block you may deal 4 Physical damage to the enemy you blocked, that enemy back be up to 10 feet away.
+- After your next successful block you may deal 4 Physical damage to the enemy you blocked, that enemy may be up to 10 feet away.
 
