@@ -1,10 +1,5 @@
 ## General Rules
-- Checks are made through rolling the amount of d12 you have allocated to a certain <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span>. When rolling, you will keep the 2 highest 2d12 and apply that to the target value. If you have less than 2d12 you keep that d12s value.
-- The default number of d12 in a dice pool for any <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> is 2 or 2d12.
-##### Die Amounts:
-- Specialized: 3d12
-- Neutral: 2d12
-- Weak: 1d12
+- Checks are made through rolling the 2d12 for a certain <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span>. When rolling.
 ##### Average Target Values:
 - Impossible: 30
 - Hard: 20
@@ -12,14 +7,12 @@
 - Easy: 10
 #### Dice Pools:
 - Every <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> will have a pool of dice associated with it with the default amount being 2d12. 
-- If you have specialization in a <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> its Dice Pool increases to 3d12
-- If you have weakness in a <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> its Dice Pool decreases to 1d12.
 ## Types of Checks:
 #### <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> Checks
 - These checks involve the players <span style="font-weight:bold; color:rgb(33, 235, 60)">Stats</span> and are often used to gather information or take basic actions. When making this type of check, the player will look at the given <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> their are rolling for. They will then add all relevant modifiers and roll the necessary amount of dice.
 	Ex.
-	- A player needs to roll for Guts. They have Guts specialization, meaning they will roll 3d12 instead of 2d12 and keep the 2 highest rolls. They roll a 22. They will then add their Guts modifier to the roll. They have +2 to Guts rolls. Their total roll would be their 22 + 2 (their guts modifier) = 24 total.
-	- A player needs to roll for Deception. They do not have specialization, they will roll only 2d12. They roll a 7. Their Deception modifier is - 3. Their total roll would be 7 - 4 = 3
+	- A player needs to roll for Guts. They roll a 22. They will then add their Guts modifier to the roll. They have +2 to Guts rolls. Their total roll would be their 22 + 2 (their guts modifier) = 24 total.
+	- A player needs to roll for Deception. They roll a 7. Their Deception modifier is - 3. Their total roll would be 7 - 3 = 4
 #### Degrees of Success
 - When a player makes a check, they will try to roll higher than a events Challenge Level (CL). Their rolls will have various degrees of success based on their roll. These range from:
 	- Total Success: The player does the desired action without consequence
