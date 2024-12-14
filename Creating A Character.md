@@ -45,7 +45,7 @@
 - There are 4 <span style="font-weight:bold;color:rgb(102, 82, 255)"><span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span></span>. These are used for check both used in and outside of combat as well as other systems. They determine general stats for the GM to use, and how your character interact with specific scenarios. 
 - The <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span> are determined by your <span style="font-weight:bold;color:rgb(33, 235, 60)">Base Stats</span> as follows:
 	- **Stealth:** Evasion Modifier + Direction Modifier + Deception Modifier
-	- **Passive Stealth:** Evasion Modifier + Direction Modifier + Deception Modifier + 4
+	- **Passive Stealth:** Evasion Modifier + Direction Modifier + Deception Modifier
 	- **Reaction:** Instinct Modifier + Deftness Modifier
 	- **Passive Perception:** 11 + Perception Modifier
 #### Determining Hitpoints:
