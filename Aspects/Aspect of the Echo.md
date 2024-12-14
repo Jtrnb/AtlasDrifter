@@ -1,15 +1,17 @@
-### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d6, 1d6, 1d4
+### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d6, 1d6
 ### Speed: 15 feet
 ### Items:
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Foresight</span>
-- All action diced used for <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> and <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> actions are 1 higher than the rolled value.
+- All action dice used for <span style="font-weight:bold; color:rgb(192, 187, 17)">Defensive</span> and <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> actions are 1 higher than the rolled value.
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Summon Echo</span>
 #### Attributes:
 - Grabbing
 - Grabbed
 - Prone
+#### Prerequisite: 
+- May not be used by an Ech
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 5
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: 1 Minute

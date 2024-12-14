@@ -3,7 +3,7 @@
 ### Items:
 ## Effects:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Blast Resistant</span>:
-- Your explosions to 15 feet of knockback to yourself
+- Your explosions do 15 feet of knockback to yourself
 - You cannot take damage from your own AOE effects.
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Cherry Bomb</span>
