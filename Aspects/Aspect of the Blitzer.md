@@ -6,7 +6,7 @@
 - Your explosions do 15 feet of knockback to yourself
 - You cannot take damage from your own AOE effects.
 ## Actions:
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Cherry Bomb</span>
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Wizzbanger</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 5
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant

@@ -14,12 +14,12 @@
 #### Duration: 1 Round
 #### Range: Self
 #### Effects:
-##### 1-9:
+##### 1-10:
 - You enter a state of Damage Absorbance
 - While in the Damage Absorbance state you gain the following:
 	- 1 Barrier
 	- Damage you take is stored and added to your next attack
-##### 10-12:
+##### 11-12:
 - You enter a state of Damage Absorbance
 - While in the Damage Absorbance state you gain the following:
 	- 2 Barrier
