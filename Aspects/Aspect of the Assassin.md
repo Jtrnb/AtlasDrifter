@@ -9,7 +9,7 @@
 - Your **Reaction Modifier** is increases by +1
 - If you are the first to deal damage to an enemy, it does double damage.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Hard to Find</span>
-- Your Passive Stealth increases by +5
+- Your Passive Stealth increases by +7
 - When Hiding you may add the value of your lowest Action Die to your Active Stealth. This does not consume that Action Die.
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Always Hidden</span>
