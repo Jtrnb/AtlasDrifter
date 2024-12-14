@@ -17,7 +17,7 @@
 ##### 1-9:
 - You enter a state of Damage Absorbance
 - While in the Damage Absorbance state you gain the following:
-	- 2 Barrier
+	- 1 Barrier
 	- Damage you take is stored and added to your next attack
 ##### 10-12:
 - You enter a state of Damage Absorbance
