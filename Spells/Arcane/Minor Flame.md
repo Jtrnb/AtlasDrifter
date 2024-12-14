@@ -2,10 +2,12 @@
 - Vocal
 - Stomatic
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 2
+#### Dodge Threshold: 14
 ### <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span>: 6
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant
 #### Range: 60 feet
+#### Spell Speed: 60 feet per turn
 #### Effects:
 ##### 1-5: 
 - Conjure a small ball of fire dealing 3 Fire damage to target enemy within 60 feet of you

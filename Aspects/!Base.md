@@ -9,6 +9,7 @@
 #### Prerequisite: 
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 1-12
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span> Cap: 1-12
+#### Dodge Threshold:
 #### Speed:
 #### Duration:
 #### Range:
