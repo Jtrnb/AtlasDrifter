@@ -130,7 +130,7 @@ Ex.
 #### Paired Order
 - When a turn order is determined a player may choose to move their turn causing a Turn Pair. A player that comes earlier in turn order may choose to take their turn at the same time as another Friendly player instead of their normal turn time. This does not effect rounds
 - Paired turns act like normal turns however the paired players will take their turns at the same time. They may both make actions and go back and fourth.
-- After a round the turn order will reset.
+- After a round the turn order will reset
 Ex. Left: normal turn order, Right: Player 1 moving to Pair with player 2
 
 | Players                                                           | Turn Order                                                      | Players                                                           | Turn Order                                                      |
@@ -144,8 +144,8 @@ Ex. Left: normal turn order, Right: Player 1 moving to Pair with player 2
 |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 3</span>             |                                                                   | <span style="color:rgb(33, 235, 60)">End of Enemy Round</span>  |
 |                                                                   | <span style="color:rgb(33, 235, 60)">End of Enemy Round</span>  |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |
 |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |
-|                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |                                                                   | Cont.                                                           |
-|                                                                   | Cont.                                                           |                                                                   |                                                                 |
+|                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |                                                                   | <span style="color:rgb(192, 187, 17)">Player 2</span>           |
+|                                                                   | Cont.                                                           |                                                                   | Cont.                                                           |
 
 ## Damage Types
 - Physical
