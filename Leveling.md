@@ -9,9 +9,9 @@
 - You may only pick abilities that you meet the prerequisites. 
 ## Odd Levels
 - On Odd levels you gain 1 Upgrade Point, these points can be used for the following
-	- Increases the modifier of an stat by +1, you may not exceed +5 with this
+	- Increase the modifier of an stat by +1, you may not exceed +5 with this
 	- Level up an Action Die to the next stage according to the Cost Table below
-	- Upgrade an ability that has the option of being upgrade
+	- Gain an ability from the Ability List that has a prerequisite of an ability you own
 #### Cost Table:
 
 | Die to Upgrade | Upgrade Cost (Upgrade Points) | Upgraded Die |

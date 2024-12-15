@@ -1,4 +1,3 @@
-## Cost: 
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Dash</span>
 #### Prerequisites:
