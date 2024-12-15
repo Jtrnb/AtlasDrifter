@@ -5,7 +5,7 @@
 - **Each** Level you gain (10 + Your Guts Modifier) Hitpoints
 - Most Health Increases will come from abilities taken 
 ## Even Levels
-- On Even levels you gain 1 Ability Point, these points can be used to gain abilities from the Ability List
+- On Even levels you gain an ability from the Ability List
 - You may only pick abilities that you meet the prerequisites. 
 ## Odd Levels
 - On Odd levels you gain 1 Upgrade Point, these points can be used for the following
