@@ -19,4 +19,4 @@
 ##### 11-12:
 - You deal 4 Physical damage to target enemy within 10 feet of you.
 - (one handed) you may deal 4 physical another enemy within **5** feet of you knocking them prone
-- (two handed) you may deal 4 damage to all enemies within 5 feet of you. This can be bl
+- (two handed) you may deal 4 damage to all enemies within 5 feet of you. This can be blocked

@@ -77,14 +77,14 @@ Health is made up from 5 different types that collectively make a characters Hea
 #### Jumping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Jump Action you may choose to make a High Jump or Long Jump.
 - When making a Long Jump you spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> and move in any direction that many tiles + your Deftness or Strength Modifier. While jumping you many move through single height tiles, and through<span style="font-weight:bold;color:rgb(189, 101, 0)"> Harsh Ground</span> without taking a movement penalty. 
-- When making a High Jump you spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> and move upward that many tiles - 3 + half of your Deftness or Strength Modifier
+- When making a High Jump you spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> and move upward that many tiles - 3 + half of your Deftness or Strength Modifier with a minimum of 1.
 #### Moving (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Move Action you may add the value of the Chosen <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to your speed and move that distance. 
 - You may choose to not spend <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to move, which will result in moving only your speed. You may only not spend <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> and move once per turn.
 #### Preparing (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Prepare Action you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to make any other action work at <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> speed, in response to a trigger you determine.
 - This trigger is an event that can happen, and your Prepared action will activate once that trigger is met.
-- You may spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to make a Shove Action when an opponent moves. 
+- Ex. You may spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to make a Shove Action when an opponent moves. 
 #### Shoving (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Shove Action you must spend an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to push a target within 5 feet of you away. You and the target must make contested check of your Strength or Guts plus the value of  against their Guts. You add the value of your spent <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> to this roll as well as any relevant modifiers. If you win the contest the target is pushed back equivalent feet to your roll. Otherwise the target is not moved and nothing happens.
 #### Tripping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>):
@@ -127,6 +127,26 @@ Ex.
 |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |
 |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 1</span>             |
 |                                                                   | Cont.                                                           |                                                                   | Cont.                                                           |
+#### Paired Order
+- When a turn order is determined a player may choose to move their turn causing a Turn Pair. A player that comes earlier in turn order may choose to take their turn at the same time as another Friendly player instead of their normal turn time. This does not effect rounds
+- Paired turns act like normal turns however the paired players will take their turns at the same time. They may both make actions and go back and fourth.
+- After a round the turn order will reset.
+Ex. Left: normal turn order, Right: Player 1 moving to Pair with player 2
+
+| Players                                                           | Turn Order                                                      | Players                                                           | Turn Order                                                      |
+| ----------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------- |
+| <span style="color:rgb(192, 187, 17)">Player 1, Reaction 6</span> | <span style="color:rgb(192, 187, 17)">Player 1</span>           | <span style="color:rgb(192, 187, 17)">Player 1, Reaction 6</span> | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |
+| <span style="color:rgb(192, 187, 17)">Player 2, Reaction 3</span> | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             | <span style="color:rgb(192, 187, 17)">Player 2, Reaction 3</span> | <span style="color:rgb(192, 187, 17)">Player 1, Player 2</span> |
+| <span style="color:rgb(192, 187, 17)">Player 3, Reaction 0</span> | <span style="color:rgb(192, 187, 17)">Player 2</span>           | <span style="color:rgb(192, 187, 17)">Player 3, Reaction 0</span> | <span style="color:rgb(235, 35, 53)">Enemy 1</span>             |
+| <span style="color:rgb(235, 35, 53)">Enemy 1, Reaction 1</span>   | <span style="color:rgb(235, 35, 53)">Enemy 1</span>             | <span style="color:rgb(235, 35, 53)">Enemy 1, Reaction 1</span>   | <span style="color:rgb(192, 187, 17)">Player 3</span>           |
+| <span style="color:rgb(235, 35, 53)">Enemy 2, Reaction 4</span>   | <span style="color:rgb(192, 187, 17)">Player 3</span>           | <span style="color:rgb(235, 35, 53)">Enemy 2, Reaction 4</span>   | <span style="color:rgb(33, 235, 60)">End of Player Round</span> |
+| <span style="color:rgb(235, 35, 53)">Enemy 3, Reaction 0</span>   | <span style="color:rgb(33, 235, 60)">End of Player Round</span> | <span style="color:rgb(235, 35, 53)">Enemy 3, Reaction 0</span>   | <span style="color:rgb(235, 35, 53)">Enemy 3</span>             |
+|                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 3</span>             |                                                                   | <span style="color:rgb(33, 235, 60)">End of Enemy Round</span>  |
+|                                                                   | <span style="color:rgb(33, 235, 60)">End of Enemy Round</span>  |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |
+|                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |
+|                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |                                                                   | Cont.                                                           |
+|                                                                   | Cont.                                                           |                                                                   |                                                                 |
+
 ## Damage Types
 - Physical
 - Mystic
