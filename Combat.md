@@ -63,7 +63,7 @@ Health is made up from 5 different types that collectively make a characters Hea
 - You may end a Grab as a <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action without spending any resource
 #### Helping (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Help Action you may lend any number of your rolled <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> to another player equal to or less than your Instinct Modifier. Dice given return to you at the start of your turn and are rolled as normal. 
-#### Hiding (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>): CHECK
+#### Hiding (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>):
 - When taking the Hide Action you must spend any <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> and add its value to your base Stealth, this is your <span style="font-weight:bold; color:rgb(181, 119, 228)">Active Stealth</span>. Doing so will attempt to put your character into hiding. Enemies must make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your Active Stealth you fail to hide, if they roll lower you successfully hide.
 - If you are no obscured by objects or entities, your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span> decreases by 18.
 - When successfully hiding, you gain the Hidden condition.
