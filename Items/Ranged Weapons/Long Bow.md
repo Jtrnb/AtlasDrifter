@@ -11,7 +11,8 @@
 - You deal 8 Physical damage to target that is at least 20 feet away and at most 90 feet away.
 ##### 6-10:
 - You deal 8 Physical damage to target that is at least 20 feet away and at most 90 feet away.
+- This does 5 feet of knockback to the target
 ##### 11-12:
-- You deal 6 Physical damage to target that is at least 10 feet away and at most 45 feet away.
-- You may move half your speed.
-- There is no minimum range, you deal 4 additional physical damage within 5 feet.
+- You deal 9 Physical damage to target that is at least 10 feet away and at most 45 feet away.
+- This does 5 feet of knockback to the target
+- There is no maximum range, you deal an additional 10 damage to targets outside of 90 feet.
