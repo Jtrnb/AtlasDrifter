@@ -11,6 +11,7 @@
 #### Dodge Threshold:
 #### Speed:
 #### Duration:
+#### Minimum Range:
 #### Range:
 #### Effects:
 ##### 1-12:
