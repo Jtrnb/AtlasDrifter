@@ -3,8 +3,6 @@
 - You may wield this weapon with 2 hands. If you do so any damage dealt with this weapon increases by 2
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Thrown</span>
 - You may throw this weapon at an enemy within 20 feet of you dealing 6 Physical damage on impact
-## Effects:
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Attack</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 2 (one handed), 1 (two handed)

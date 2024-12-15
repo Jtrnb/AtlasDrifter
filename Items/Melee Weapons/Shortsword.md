@@ -1,8 +1,6 @@
 ## Weapon Attributes:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Light</span>
 - You may use another weapon that is light.
-## Effects:
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Attack</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 1

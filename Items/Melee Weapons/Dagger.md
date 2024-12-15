@@ -1,10 +1,7 @@
 ## Weapon Attributes:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Light</span>
 - You may use another weapon that is light.
-## Effects:
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
 ## Actions:
-### Attributes:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Attack</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 1
 #### Dodge Threshold: 16
@@ -12,9 +9,9 @@
 #### Duration: Instant
 #### Range: 5 feet
 #### Effects:
-##### 1-5:
+##### 1-6:
 - You deal 4 Physical damage to target enemy within 5 feet of you.
-##### 6-10:
+##### 7-10:
 - You deal 4 Physical damage to target enemy within 5 feet of you.
 - You may do one of the following
 	- Knock the enemy prone
