@@ -24,3 +24,5 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Winged</span>
 - You may fly instead of moving.
 - You must spend an Action Die each turn you stay in the air.
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Resilient </span>
+- Your base Hitpoints increase by +5.
