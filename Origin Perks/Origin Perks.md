@@ -3,7 +3,7 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Alert</span>
 - You gain a +1 to Reaction
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Aquatic</span>
-- You can breathe underwater
+- You can breathe underwater.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Centaur </span>
 - You are 2 tiles long and may be Mounted.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Courageous </span>
