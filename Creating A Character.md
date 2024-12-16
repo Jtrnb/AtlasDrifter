@@ -58,6 +58,3 @@
 - Your starting Speed is determined by adding together the speed value of your 2 Aspects and Origin.
 ## Origin Perks
 - When first creating a character you must pick 2 Origin Perks. Origin Perks are mostly passive abilities and add flavor to your character. 
-## Origin
-- The Origin chosen will determine was your characters base appearance is and where in the world they are originally from.
-- These are similar to Race or Species from other games.
