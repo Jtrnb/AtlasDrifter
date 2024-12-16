@@ -1,3 +1,5 @@
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Aggressive</span>
+- Your speed increases by 10 feet when moving toward an enemy
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Alert</span>
 - You gain a +1 to Reaction
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Aquatic</span>
@@ -24,5 +26,3 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Winged</span>
 - You may fly instead of moving.
 - You must spend an Action Die each turn you stay in the air.
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Resilient </span>
-- Your base Hitpoints increase by +5.
