@@ -19,3 +19,6 @@
 - Your size is small (you may stand on the same tiles as others).
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Quick</span>
 - Your movement speed increases by 5 feet.
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Winged</span>
+- You may fly instead of moving.
+- You must spend an Action Die each turn you stay in the air.
