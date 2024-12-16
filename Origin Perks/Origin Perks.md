@@ -1,5 +1,7 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Alert</span>
 - You gain a +1 to Reaction
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Centaur </span>
+- You are 2 tiles long and may be Mount
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Resilient </span>
 - Your base Hitpoints increase by +5.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Large</span>
