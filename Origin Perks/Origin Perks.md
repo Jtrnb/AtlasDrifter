@@ -1,5 +1,7 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Aggressive</span>
 - Your speed increases by 10 feet when moving toward an enemy
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Agile </span>
+- You may climb walls up to your base speed.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Alert</span>
 - You gain a +1 to Reaction
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Aquatic</span>
