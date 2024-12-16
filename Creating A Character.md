@@ -56,7 +56,8 @@
 - Aspects will contain: passive abilities, active abilities, items, speed, and <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
 #### Determining Base Speed:
 - Your starting Speed is determined by adding together the speed value of your 2 Aspects and Origin.
+## Origin Perks
+- When first creating a character you must pick 2 Origin Perks. Origin Perks are mostly passive abilities and add flavor to your character. 
 ## Origin
-- When first creating a character you must pick an Origin. Origins have mostly passive abilities and add flavor to your character. 
 - The Origin chosen will determine was your characters base appearance is and where in the world they are originally from.
 - These are similar to Race or Species from other games.
