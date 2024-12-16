@@ -16,3 +16,7 @@
 ##### 8-10:
 - You deal 4 Physical damage to target within 5 feet.
 - You can throw the Hand Axe
+##### 11-12:
+- You deal 5 Physical damage to target within 5 feet.
+- You can throw the Hand Axe
+- You may equip a weapon without spending an Action Die
