@@ -1,7 +1,12 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Alert</span>
 - You gain a +1 to Reaction
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Aquatic</span>
+- You can breathe underwater
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Centaur </span>
-- You are 2 tiles long and may be Mount
+- You are 2 tiles long and may be Mounted.
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Courageous </span>
+- When falling to 0 Hitpoints you instead stay alive at 1 Hitpoint and gain 1 Barrier
+- This may be used once per full rest.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Resilient </span>
 - Your base Hitpoints increase by +5.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Large</span>
