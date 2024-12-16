@@ -9,6 +9,8 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Courageous </span>
 - When falling to 0 Hitpoints you instead stay alive at 1 Hitpoint and gain 1 Barrier
 - This may be used once per full rest.
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Enchanted </span>
+- You gain +5 <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span>
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Large</span>
 - Your size is Large.
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Light Footed</span>
