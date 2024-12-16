@@ -1,7 +1,8 @@
 - Conditions are effects that apply to characters, and do various things. 
 #### Deaths Door:
 - You may only be on Deaths Door while you have 0 Hitpoints.
-- While on Deaths Door, each time you take damage you must make CL 12 Guts or Endurance check if you fail you die, otherwise you remain at 0 Hitpoints. The CL of this check increases by 1 each time you receive damage while on Deaths Door.
+- While on Deaths Door, each time you take damage you must make CL 12 Guts or Endurance check if you fail you die, otherwise you remain at 0 Hitpoints. The CL of this check increases by 2 each time you receive damage while on Deaths Door.
+- The CL of the check resets after a Full or Partial Rest.
 - If your Hitpoints are Higher than 0 You lose this Condition.
 #### Grabbed:
 - You are being held and may not move while Grabbed or take actions that don't have the Grabbed attribute, unless otherwise stated.
