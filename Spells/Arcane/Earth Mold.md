@@ -13,10 +13,12 @@
 	- Make the Ground Harsh Ground
 	- Build a 5 foot wall out of stone.
 	- Dig a 5 foot deep trench.
+- Dodging this spell causes the person dodging to move to an adjacent space.
 ##### 10-12: 
 - You may do one of the following in a 5 foot line, that moves outward from you at 10 feet per turn. The spell has a maximum range of 50 feet. You may cause the spell to turn by spending an <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Die</span> at <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> speed.
 	- Make the Ground Harsh Ground
 	- Build a 5 foot wall out of stone.
 	- Dig a 5 foot deep trench.
+- Dodging this spell causes the person dodging to move to an adjacent space.
 #### Spell List: 
 - [[Arcane Spell List]]
