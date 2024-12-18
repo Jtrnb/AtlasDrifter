@@ -4,7 +4,7 @@
 #### Dodge Threshold: 12
 ### <span style="font-weight:bold;color:rgb(33, 117, 235)">Mana</span>: 8
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
-#### Duration: Instant
+#### Duration: Instant/ Variable
 #### Range: 50 feet
 #### Spell Speed: 10 feet per turn
 #### Effects:
