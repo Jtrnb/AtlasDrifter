@@ -50,7 +50,7 @@
 	- **Passive Perception:** 11 + Perception Modifier
 #### Determining Hitpoints:
 - Your starting Hitpoints are determined by your Guts modifier.
-	- **Hitpoints:** (2 x Guts Modifier) + 25
+	- **Hitpoints:** (2 x Guts Modifier) + 15
 ## Aspects:
 - When first creating a character you must pick up to **2 Aspects**. These abilities come with the amount of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> you will have to work with at the start of the game.
 - Aspects will contain: passive abilities, active abilities, items, speed, and <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
