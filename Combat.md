@@ -148,7 +148,16 @@ Ex. Left: normal turn order, Right: Player 1 moving to Pair with player 2
 |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |
 |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |                                                                   | <span style="color:rgb(192, 187, 17)">Player 2</span>           |
 |                                                                   | Cont.                                                           |                                                                   | Cont.                                                           |
-## Targeting & Fluid Actions:
+## Targeting and Type:
+- Many actions will have a "Type" such as: melee, line or point. This is how the action targets and performs in combat.
+	- Line: The action will perform over a straight line from its origin to its destination.
+	- Point: The action will perform at a point over a distance. This distance is fixed.
+	- Melee: The action will perform in a direction from its origin.
+- If the origin of the action moves so does the actions area of effect. 
+	- Ex. A line from a player 4 tiles to the right will hit the first obstacle in those 4 tiles.
+		- If the player is moved before the action resolves, the line will move with them in the same direction
+	- Ex 2. A point from a player 4 tiles to the right will hit the tile it is targeting.
+		- If the player is moved before the action resolves, the point will move with them in the same direction maintaining the same distance.
 ## Damage Types
 - Physical
 - Mystic
