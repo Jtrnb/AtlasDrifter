@@ -114,6 +114,7 @@ Ex.
 |                                                                   | Cont.                                                 |                                                                   | Cont.                                                 |
 #### Rounds:
 - A round is determined by your sides turn order. A round is completed once the last person in your turn order's turn ends.
+	- Note: a round for a player is until the start of its next turn.
 Ex.
 
 | Players                                                           | Turn Order                                                      | Players                                                           | Turn Order                                                      |
