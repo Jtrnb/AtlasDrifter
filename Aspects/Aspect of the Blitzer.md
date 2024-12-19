@@ -16,7 +16,9 @@
 #### Effects:
 ##### 1-7:
 - Throw a bomb 20 feet. This bomb does 5 damage to characters at the point of impact and 2 damage to surround tiles. 
-- Enemies hit by this bomb have their speed reduced by 10 for 1 round
-##### 8-12:
+##### 8-10:
+- Throw a bomb 20 feet. This bomb does 5 damage to characters at the point of impact and 2 damage to surround tiles. 
+- Enemies hit by this bomb have their speed reduced by 10 for 1 round.
+##### 11-12:
 - Throw a bomb 20 feet. This bomb does 5 damage to characters at the point of impact and 2 damage to surround tiles. 
 - Enemies hit by this bomb have their speed reduced by 10 for 1 round and are stunned for 2 **Turns**.
