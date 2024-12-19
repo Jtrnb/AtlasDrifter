@@ -148,7 +148,7 @@ Ex. Left: normal turn order, Right: Player 1 moving to Pair with player 2
 |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |
 |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |                                                                   | <span style="color:rgb(192, 187, 17)">Player 2</span>           |
 |                                                                   | Cont.                                                           |                                                                   | Cont.                                                           |
-
+## Targeting & Fluid Actions:
 ## Damage Types
 - Physical
 - Mystic

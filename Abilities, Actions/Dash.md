@@ -2,7 +2,7 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Dash</span>
 #### Prerequisites:
 - A player makes an Action
-- You have not taking this Action this turn
+- You have not taking this Action this turn.
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 3
 #### Speed: <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>
 #### Duration: Instant

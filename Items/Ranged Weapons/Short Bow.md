@@ -1,6 +1,7 @@
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Attack</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 1
+#### Type: Line
 #### Dodge Threshold: 14
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant
