@@ -2,7 +2,7 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Light</span>
 - You may wield 2 Light weapons at a time gaining the benefits from both
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Thrown</span>
-- You may throw this weapon at an enemy within 20 feet of you dealing 6 Physical damage on impact
+- You may throw this weapon, when you attack with it, at an enemy within 20 feet of you dealing 6 Physical damage on impact
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Attack</span>
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 1
