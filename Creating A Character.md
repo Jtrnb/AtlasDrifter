@@ -1,3 +1,8 @@
+## Aspects:
+- When first creating a character you must pick up to **2 Aspects**. These abilities come with the amount of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> you will have to work with at the start of the game.
+- Aspects will contain: passive abilities, active abilities, items, speed, and <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
+## Origin Perks
+- When first creating a character you must pick 2 Origin Perks. Origin Perks are mostly passive abilities and add flavor to your character. 
 ## Types of Stats:
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)"><span style="font-weight:bold;color:rgb(33, 235, 60)">Base Stats</span></span>:
 - There are 15 <span style="font-weight:bold;color:rgb(33, 235, 60)">Base Stats</span>. These are used for checks both used in and outside of combat. They determine what your character is good and bad at.
@@ -51,10 +56,5 @@
 #### Determining Hitpoints:
 - Your starting Hitpoints are determined by your Guts modifier.
 	- **Hitpoints:** (2 x Guts Modifier) + 15
-## Aspects:
-- When first creating a character you must pick up to **2 Aspects**. These abilities come with the amount of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span> you will have to work with at the start of the game.
-- Aspects will contain: passive abilities, active abilities, items, speed, and <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Dice</span>.
 #### Determining Base Speed:
 - Your starting Speed is determined by adding together the speed value of your 2 Aspects and Origin.
-## Origin Perks
-- When first creating a character you must pick 2 Origin Perks. Origin Perks are mostly passive abilities and add flavor to your character. 
