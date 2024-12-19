@@ -10,24 +10,28 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Rage</span>
 #### Attributes:
 - Prone
+#### Prerequisites: 
+- Is not Enraged
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Value</span>: 4
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Effects:
 ##### 1-5: 
 - You enter an Enraged state. While Enraged you gain the following
-	- You gain 5 Defense
-	- You gain 5 Temporary Hitpoints
-	- Physical Damage you deal is increases by 3
+	- You gain 3 Defense
+	- You gain 3 Temporary Hitpoints
+	- Physical Damage you deal is increases by 1
 	- You may use actions involving the Enraged State.
 - Duration: 10 Minutes
+- You must make an attack each turn and end your turn within 5 feet of an enemy otherwise you stop raging.
 ###### 5-12
 - You enter an Enraged state. While Enraged you gain the following
-	- You gain 5 Defense
-	- You gain 10 Temporary Hitpoints
-	- Physical Damage you deal is increases by 4
+	- You gain 3 Defense
+	- You gain 5Temporary Hitpoints
+	- Physical Damage you deal is increases by 2
 	- You may use actions involving the Enraged State.
 	- Refund the Die used to take this Action.
 - Duration: 10 Minutes
+- You must make an attack each turn and end your turn within 5 feet of an enemy otherwise you stop raging.
 
 
 
