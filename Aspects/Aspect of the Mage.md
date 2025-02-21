@@ -1,4 +1,4 @@
-### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d6, 1d8
+### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d8
 ### Speed: 15 feet
 ### Items:
 ## Effects:

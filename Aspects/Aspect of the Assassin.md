@@ -1,4 +1,4 @@
-### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d4, 1d6
+### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Dice</span>: 1d4, 1d6
 ### Speed: 20 feet
 ### Items:
 - Choose 2 from the following
