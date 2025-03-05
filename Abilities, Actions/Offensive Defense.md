@@ -13,6 +13,6 @@ someone is making a melee attack against you
 #### Duration: Instant
 #### Range: 5 feet
 #### Effects:
-##### 1-10: You trip the attacker making an incoming melee attack
-##### 11-12: You trip the attacker making an incoming melee attack and move them 5ft in any direction 
+##### 1-10: You trip the attacker making an incoming melee attack and target is knocked Prone and their movement ends.
+##### 11-12: You trip the attacker making an incoming melee attack and target is knocked Prone and their movement ends. Then you may move them 5ft in any direction 
 
